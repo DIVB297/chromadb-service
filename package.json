@@ -1,0 +1,12 @@
+{
+  "name": "chromadb-service",
+  "version": "1.0.0",
+  "description": "ChromaDB vector database service",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'ChromaDB service'"
+  },
+  "keywords": ["chromadb", "vector", "database"],
+  "author": "",
+  "license": "MIT"
+}
